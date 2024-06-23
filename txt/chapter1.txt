@@ -2,7 +2,7 @@
 "[i]Get back here![/i]" cries the shop owner as you bolt out the door of the shop.
 You are a child, 13 years of age, growing up in… 
 *choice
-    #The frigid land of Fikon. Home to marauding masters of takedowns, and the axe.
+    #The frigid land of Fikon. Home to marauding masters of throws and takedowns.
       A strong, defiant people. 
       *set nation "Fikon"
       *set capitol "Rejyava"
@@ -14,7 +14,7 @@ You are a child, 13 years of age, growing up in…
       *set Opponent3 "Bjere"
       *page_break
       *goto childhood1
-    #The mountainous nation of Tuxar. Home to precise boxers, masters of the sword and shield.
+    #The mountainous nation of Tuxar. Home to precise boxers.
       A dignified, resolute people. 
       *set nation "Tuxar"
       *set capitol "Suisse"
@@ -26,7 +26,7 @@ You are a child, 13 years of age, growing up in…
       *set Opponent3 "Arthur"
       *page_break
       *goto childhood1
-    #The never-ending grasslands of Kygao. Home to agile strikers, deadly with a spear.
+    #The never-ending grasslands of Kygao. Home to agile strikers.
       A quiet, but fearsome people.
       *set nation "Kygao"
       *set capitol "Mokent"
@@ -38,7 +38,7 @@ You are a child, 13 years of age, growing up in…
       *set Opponent3 "Katsurov"
       *page_break 
       *goto childhood1
-    #The fertile lands that lead to the sea, known as Pahtten. Home to warriors feared for their submission holds, known to always carry a knife.
+    #The fertile lands that lead to the sea, known as Pahtten. Home to warriors feared for their submission holds.
       An ancient people.
       *set nation "Pahtten"
       *set capitol "Orlia"
