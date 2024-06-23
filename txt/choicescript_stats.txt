@@ -1,0 +1,29 @@
+Character: ${Name}
+*stat_chart
+  percent Health
+  text Money
+  text Nation
+  text Status
+  opposed_pair Humility
+    Pride
+  opposed_pair Honesty
+    Dishonesty
+
+
+Skills:
+*stat_chart
+  text Punching
+*stat_chart
+  text Kicking
+*stat_chart
+  text Takedowns
+*stat_chart
+  text Submissions
+  
+  
+Relationships:
+*stat_chart
+  percent FriendRelationship ${Friend}
+  percent MasterRelationship ${Master}
+  
+  

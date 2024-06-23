@@ -1,0 +1,68 @@
+*title Coliseum
+*author B. Morgan.
+
+*scene_list
+    chapter1
+    chapter2
+    chapter3
+
+*comment Fighting Stats
+*create Punching 50
+*create Kicking 50
+*create Takedowns 50
+*create Submissions 50
+
+*comment Characters
+*create Friend ""
+*create FriendRelationship 0
+*create Master ""
+*create MasterRelationship 0
+*create TrainingEquipment ""
+*create Opponent1 ""
+*create Opponent2 ""
+*create Opponent3 ""
+*create Opponent4 ""
+*create Opponent5 ""
+*create Opponent6 ""
+*create Opponent7 ""
+*create Opponent8 ""
+*create Opponent9 ""
+*create Opponent10 ""
+
+*comment Character Stats
+*create Health 100
+*create Name ""
+*create Status "A nobody."
+*create Nation ""
+*create Capitol ""
+*create Money 0
+*create Honesty 50
+*create Dishonesty 50
+*create Humility 50
+*create Pride 50
+*create Piety 50
+*create Impiety 50
+
+*label enter_name
+
+*image Chapter1.png
+*sound nothing
+
+[i]Welcome to Óa![/i]
+
+Home to the nations of Fikon, Tuxar, Kygao and Pahtten.
+
+Land of [i]The Accord[/i], a peace treaty struck among these nations millennia ago.
+
+Every ten years, the four nations come together in the center of Óa to renew the treaty at the Coliseum.
+
+Each nation sends its two greatest warriors to compete in a tournament of hand-to-hand combat, known as the [i]Accordaé[/i].
+
+The victorious nation will then nominate an [i]Arbiter[/i] to mediate economic and political conflicts between the four nations until the next [i]Accordae[/i].
+
+…
+
+Are you ready to fight?
+
+*page_break FIGHT!
+*goto_scene chapter1
